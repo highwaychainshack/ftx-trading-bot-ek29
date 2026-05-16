@@ -1,4 +1,4 @@
-# 
+# best deribit trading bot Utility | backtesting + slippage-control is the best deribit trading bot, featuring backtesting and slippage-control. Smart, fast, and optimized for
 
 
 
